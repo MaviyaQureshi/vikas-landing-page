@@ -1,0 +1,95 @@
+/* body */
+
+.body{
+    background-color: rgb(55, 129, 150);
+}
+
+/* heading section */
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin : -8px;
+    margin-bottom: 0;
+    height : 100px;
+    background-color: rgb(0, 80, 102);
+    font-size: 40px;
+}
+
+.teamname{
+    margin-top: 25px;
+    font-family: 'Rajdhani', cursive;
+    color : rgb(255, 255, 255);
+}
+
+/* page */
+
+.page{
+    display: flex;
+    padding-left: 10px;
+}
+
+/* vertical line */
+
+.vertical-line{
+    width : 15px;
+    height : 765px;
+    margin : 0;
+    margin-top: 7px;
+}
+
+/* left-side */
+
+.name,
+.role{
+    color: rgb(0, 0, 0);
+    font-family: 'Rajdhani', cursive;
+    font-size : 28px; 
+}
+
+.vikas{
+    text-decoration: underline;
+}
+
+.vikas-img{
+    margin: 0;
+    margin-top: 40px;
+    height : 300px;
+    width : 300px;
+}
+
+/* about page */
+
+.about-page{
+    display: grid;
+    grid-template-rows: 120px;
+}
+
+/* about */
+
+.about{
+    margin: 0;
+    padding-top: 60px;
+    margin-left: -10px;
+    padding-left: 30px;
+    font-size: 60px;
+    font-family: 'Rajdhani', cursive;
+    height : 60px;
+}
+
+.info{
+    margin: 0;
+    margin-top : -300px;
+    margin-left: -20px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-family: 'Rajdhani', cursive;
+}
+
+/* horizontal line */
+
+.horizontal-line{
+    height: 15px;
+    width: 1345px;
+    margin : 0;
+}
