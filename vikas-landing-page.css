@@ -2,6 +2,7 @@
 
 .body{
     background-color: rgb(55, 129, 150);
+    width : 1690px;
 }
 
 /* heading section */
@@ -90,6 +91,6 @@
 
 .horizontal-line{
     height: 15px;
-    width: 1345px;
+    width: 1300px;
     margin : 0;
 }
