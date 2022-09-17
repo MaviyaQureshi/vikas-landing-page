@@ -34,7 +34,7 @@
 
 .vertical-line{
     width : 15px;
-    height : 765px;
+    height : 700px;
     margin : 0;
     margin-top: 7px;
 }
@@ -91,6 +91,6 @@
 
 .horizontal-line{
     height: 15px;
-    width: 1000px;
+    width: 400px;
     margin : 0;
 }
